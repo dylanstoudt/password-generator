@@ -50,4 +50,4 @@ Go the extra mile and write tests for your application. Then provide examples on
 ## Screenshot and link to deployed application
 https://dylanstoudt.github.io/password-generator
 
-![Screenshot of Application](./Assets/Screenshot.png)
+![Screenshot of Application](./Assets/imgs/Screenshot.png)
