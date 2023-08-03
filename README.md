@@ -4,9 +4,9 @@
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
--Created a password generator using a series of arrays and functions with if statements
--Used a for loop to generate the random password based off user built array (prompts)
--Display the randomly generated password to user
+- Created a password generator using a series of arrays and functions with if statements
+- Used a for loop to generate the random password based off user built array (prompts)
+- Display the randomly generated password to user
 
 ## Installation
 
@@ -18,8 +18,8 @@ To use webpage, simply click generate and answer the prompts that follow, the pa
 
 ## Credits
 
--Dylan Stoudt
--uPenn
+- Dylan Stoudt
+- uPenn
 
 ## License
 
